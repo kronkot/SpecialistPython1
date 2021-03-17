@@ -29,3 +29,13 @@
 # 20 199.80 Rub.
 
 # TODO: your code here
+
+cost = float(input("cost = "))
+n = 20
+i = 1
+while i <=20:
+    print(i, cost*i, "Rub.")
+    i = i +1
+
+    
+#списал :))
