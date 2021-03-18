@@ -7,4 +7,6 @@
 item = {"name": "Кроссовки", "price": "7540.5", "currency": "rub", "count": "10"}
 dollar_rate = 74.12
 
-# TODO: your code here
+res = item["price"] * item["count"] / dollar_rate
+
+#не успел скопировать. зато хоть на github отправлять научился :))
